@@ -1,8 +1,8 @@
 {
-  "homepage": "https://github.com/haravendrasingh/Counter-app.git",
   "name": "counter-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/haravendrasingh/Counter-app/",
   "dependencies": {
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
